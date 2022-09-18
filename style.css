@@ -14,3 +14,18 @@ body{
 .button{
   box-shadow: 5px 5px;
 }
+.pic{
+  width: 150px;
+}
+#pic1{
+  float: left;
+}
+#pic2{
+  float: right;
+}
+#pic3{
+  float: left;
+}
+#pic4{
+  float: right;
+}
