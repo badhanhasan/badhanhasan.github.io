@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Javascripts</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body align="center">
+        <img src="myBanner.jpg">
+        <br>
+        <table align="center" width="800px">
+          <tr>
+            <td align="center"><a href="index.html"><img src="home.jpg" class="button"></a></td>
+            <td align="center"><a href="Javascripts.html"><img src="Javascripts.jpg" class="button"></a>
+            <td align="center"><a href="Apps.html"><img src="Apps.jpg" class="button"></a></td>
+	    <td align="center"><a href="About.html"><img src="aboutMe.jpg" class="button"></a></td>
+  	    <td align="center"><a href="FinalProject.html"><img src="Untitled.jpg" class="button"></a></td>
+          </tr>
+        </table>
+        <br>
+	
+    <p align="center">This page contains my JavaScript projects that I have created for my CSC 106 class at the University of Rhode Island.</p>
+	
